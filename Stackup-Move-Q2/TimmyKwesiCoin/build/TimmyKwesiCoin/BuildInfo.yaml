@@ -1,0 +1,20 @@
+---
+compiled_package_info:
+  package_name: TimmyKwesiCoin
+  address_alias_instantiation:
+    NamedAddr: 0000000000000000000000000000cafe
+    std: "00000000000000000000000000000001"
+  source_digest: 1071F8A4A89BF3A37EC9E0B9519E5A691F6731E56C1E02CA6A0F8B904129B091
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    fetch_latest_git_deps: false
+dependencies:
+  - MoveStdlib

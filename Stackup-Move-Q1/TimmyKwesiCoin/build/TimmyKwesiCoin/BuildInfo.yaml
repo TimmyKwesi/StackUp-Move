@@ -1,0 +1,17 @@
+---
+compiled_package_info:
+  package_name: TimmyKwesiCoin
+  address_alias_instantiation: {}
+  source_digest: E2D69792412BFF1431431706AA2596C45A2FDEFA8B4E47ACD60EA17BA7DF76A8
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    fetch_latest_git_deps: false
+dependencies: []
